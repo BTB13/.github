@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
-<img src="https://user-images.githubusercontent.com/81291090/208279388-1a7c053e-46f0-4b6d-85fd-0ae52e27b215.png" alt="Logo" width="80" > 
-  <h1>사용자의 상황 맞춤형 소통 및 공유 플랫폼 MBook</h1>
+<img src="https://media.discordapp.net/attachments/822309850700054548/1082576180663812156/d8f98e0ab8e4fb73.png?width=626&height=626" alt="Logo" width="80" > 
+  <h1>진짜 프라이빗한 것이 뭔지 느껴보세요! 사글B</h1>
 
 </div>
 
@@ -25,13 +25,13 @@
 
 ## 기술 스택
 
-### [ANDROID](https://github.com/Mbook-APPJAM/MBook_FrontEnd)
+### [ANDROID](https://github.com/BTB13/BTB13_ANDROID)
 
 - Kotlin
 - 
 - 
 
-### [BACKEND](https://github.com/Mbook-APPJAM/MBook_Server)
+### [BACKEND](https://github.com/BTB13/BTB13_BackEnd)
 
 - Kolin, Spring Boot3.0, JPA, Spring security, JWT, Query
 - MySQL, Redis
